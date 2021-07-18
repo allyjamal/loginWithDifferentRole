@@ -1,0 +1,3 @@
+<template>
+    Welcome parent
+</template>

@@ -1,0 +1,3 @@
+<template>
+    Welcome teacher
+</template>
